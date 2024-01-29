@@ -1,0 +1,103 @@
+
+.title{ 
+    font-family: 'Princess Sofia', cursive;
+    color: darkblue;
+    font-size:90px;
+    letter-spacing: 60px;
+    font-weight:900;
+    padding-top:60px;
+    text-shadow: 2px 1px yellow;
+}
+
+.title2{
+    color:darkkhaki;
+    font-size:70px;
+    padding-top: 300px;
+text-shadow: 3px 8px darkslateblue;
+font-weight: 150px;
+letter-spacing: 15px;
+font-family: 'Ruge Boogie', cursive;
+}
+
+table, th, td{
+    border: 3px groove darkmagenta;
+   border-radius:40px;
+    margin-top:50px;
+    background-color:lightblue;
+    opacity: 0.8;
+    padding: 10px;
+}
+
+th{
+    font-size:25px;
+    color: darkblue;
+    letter-spacing:2px;
+    font-family: 'Henny Penny', system-ui;
+    text-shadow: 1px 2px black;
+}
+
+td{
+    font-size: 25px;
+    color:darkviolet;
+    font-family: 'Henny Penny', system-ui;
+    letter-spacing: 5px;
+    text-shadow: 2px 1px black;
+}
+
+u{
+    text-shadow: 3px 3px darkblue;
+    color: darkmagenta;
+}
+
+h2{
+    margin-top: 30%;
+    font-family: 'Sunshiney', cursive;
+    color:deeppink;
+    text-shadow: 2px 2px black;
+    letter-spacing: 10px;
+    font-size: 40px;
+}
+
+li{
+    color:black;
+    padding-right: 80%;
+    padding-top: 10%;
+    letter-spacing: 10px;
+    font-family: 'Mountains of Christmas', serif;
+    font-weight:bolder;
+    text-shadow: 4px 4px lightblue;
+    width: 250px;
+    font-size: 35px;
+}
+
+.video{
+    width: 560px;
+    height: 315px;
+border-color:darkmagenta deeppink;
+border-style: groove;
+border-width: 40px;
+padding:15px;
+margin-top:5%;
+margin-bottom: 20%;
+border-radius:25%;
+}
+
+body{
+    background-image: radial-gradient( 5000px circle, steelblue, purple, lightblue, cyan, steelblue);
+    border:10px;
+    border-style: dotted;
+    border-color:black;
+}
+img{
+    width:55%;
+    height: 50%;
+    border-radius: 20%;
+border: 10px groove;
+margin-top: 10%;
+border-color: darkmagenta deeppink;
+padding: 15px;
+border-width:20px;
+}
+.text3{
+    color:darkblue;
+}
